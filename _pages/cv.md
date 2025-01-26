@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Research Experience
 ======
  **Thesis Title:Medical Image Analysis System to Detect Skin Diseases Based on Texture Features Using Image Processing Technology and Machine Learning," focuses on designing an automated system to detect four skin diseases: Seborrheic Dermatitis, Melanoma, Impetigo, and Diabetic Foot Ulcer**
 
