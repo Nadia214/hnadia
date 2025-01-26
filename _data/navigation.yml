@@ -11,12 +11,12 @@ main:
   - title: "Projects"
     url: /talks/  
 
-    - title: "Education"
-    url: /portfolio/
-
+  
   - title: "Eduion"
     url: /teaching/    
     
+  - title: "Education"
+    url: /portfolio/
 
         
   - #title: "Blog Posts"
