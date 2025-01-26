@@ -27,4 +27,4 @@ Projects :
 * Determination of Toxic Comments and Analysis for the Minimization of Unintentional Model Bias *  **Platform:Python -tensorflow**
 * DNA Sequence Classification by Convolutional Neural Network*  **Platform:Python -tensorflow**
 * Sentiment Analysis - RNN *  **Platform:Python -tensorflow**
-*Detecting  brain tumors in MRI images using Convolutional Neural Networks (CNNs) *  **Platform:Python -tensorflow**
+* Detecting  brain tumors in MRI images using Convolutional Neural Networks (CNNs) *  **Platform:Python -tensorflow**
