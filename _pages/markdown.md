@@ -11,4 +11,9 @@ redirect_from:
 
 ## [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh.
 - **CGPA: 3.567** <span style ="color:Green"> **[*out of 4.00* ]** </span>
+-**Last 2 year CGPA: 3.64** 
+
+
+# Awards & Scholarship 🥇
+- Junior Scholarship in class Eight, Dhaka education board, 2010
 
