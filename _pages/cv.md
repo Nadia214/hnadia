@@ -11,54 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+ **Thesis Title:Medical Image Analysis System to Detect Skin Diseases Based on Texture Features Using Image Processing Technology and Machine Learning," focuses on designing an automated system to detect four skin diseases: Seborrheic Dermatitis, Melanoma, Impetigo, and Diabetic Foot Ulcer**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* A comparative analysis of segmentation techniques (Marker-Controlled Watershed Algorithm, K-means Clustering, and Otsu Thresholding) and feature extraction methods
+* The system employed image processing techniques for pre-processing and segmentation, extracting texture features using Gray-Level Co-Occurrence Matrix (GLCM) and Image Quality Assessment (IQA).
+*  Classified the diseases using Linear Support Vector Machine (L-SVM), Non-Linear Support Vector Machine (NL-SVM), and K-Nearest Neighbors (KNN) algorithms.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Publications : 
+======
+* International Conference on Sustainable Technologies for Industry 4.0: Tanjila Broti, Anika Siddika, **Nadia Hossain** , Sikdar Rituparna and Nazmus Sakib,“Analysis Toward Detection System of Skin Diseases (Impetigo, Melanoma, Diabetic Foot Ulcer, and Seborrheic Dermatitis)"
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
