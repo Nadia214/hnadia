@@ -7,14 +7,10 @@
 main:
   
     
-  - title: "CV"
+  - title: "Research Experience & Projects"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Education"
     url: /markdown/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
