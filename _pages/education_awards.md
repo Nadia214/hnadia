@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-permalink: /education_awards/
+title: "Educatin"
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
