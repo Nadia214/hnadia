@@ -17,6 +17,8 @@ Research Experience
 *  A comparative analysis of segmentation techniques (Marker-Controlled Watershed Algorithm, K-means Clustering, and Otsu Thresholding) and feature extraction methods.The system employed image processing techniques for pre-processing and segmentation, extracting texture features using Gray-Level Co-Occurrence Matrix (GLCM) and Image Quality Assessment (IQA).Classified the diseases using Linear Support Vector Machine (L-SVM), Non-Linear Support Vector Machine (NL-SVM), and K-Nearest Neighbors (KNN) algorithms andResults show competitive accuracy for segmentation and classification methods, with the highest accuracy reaching 95% for some classifiers.
 *  This research stands out for its innovative, cost-effective approach to accurately detect multiple skin diseases using advanced image processing, comparative techniques, and comprehensive evaluation metrics.
 *  **Platform** : MATLAB
+*  **Supervisor:** Mr. Nazmus Sakib, Assistant Professor, CSE, AUST
+
 
 Publications : 
 ======
